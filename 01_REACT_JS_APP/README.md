@@ -1142,3 +1142,27 @@ UPDATE_COMPLETE amplify-kiowillowpayrjsapp-kwipayenv-103446 AWS::CloudFormation:
 GraphQL endpoint: https://btodi5nln5gt5bikhcozbzf26q.appsync-api.us-east-1.amazonaws.com/graphql
 GraphQL API KEY: 
 ```
+# Google map on click
+
+https://stackoverflow.com/questions/47378069/react-google-maps-marker-click-event
+
+
+
+# Google map search bar
+
+https://www.freakyjolly.com/google-maps-in-react-example-application/
+https://github.com/google-map-react/google-map-react/issues/460
+https://codesandbox.io/s/qqzm67ykmq
+https://github.com/google-map-react/google-map-react/issues/30
+https://www.youtube.com/watch?v=PuwGdowtm5s
+
+# Google calendar
+https://www.npmjs.com/package/react-google-calendar-api
+https://www.youtube.com/watch?v=zaRUq1siZZo
+
+
+# Tasks
+- Schedule 
+- Create Order
+- Add Order ID
+- 
