@@ -1172,8 +1172,10 @@ https://www.youtube.com/watch?v=zaRUq1siZZo
 ```sh
 ? Enter a name for the environment (dev) 
 ➜  kio-willow-pay-rjs-app git:(development-api) git checkout development
-Switched to branch 'development'
-Your branch is ahead of 'origin/development' by 1 commit.
+
+You
+
+```shr branch is ahead of 'origin/development' by 1 commit.
   (use "git push" to publish your local commits)
 ➜  kio-willow-pay-rjs-app git:(development) amplify env add         
 Note: It is recommended to run this command from the root of your app directory
@@ -1227,8 +1229,10 @@ Try "amplify add api" to create a backend API and then "amplify publish" to depl
 ```
 
 
-# Date an time picker
 
+
+
+```sh
 amplify update api
 ? Select from one of the below mentioned services: GraphQL
 ✔ 
@@ -2091,3 +2095,11 @@ UPDATE_COMPLETE                     amplify-kiowillowpayrjsapp-dev-110245 AWS::C
 
 
 ```
+
+# Date and time picker 
+- https://reactdatepicker.com/
+
+# AWS enviroment
+- https://docs.amplify.aws/cli/teams/overview/
+  
+
