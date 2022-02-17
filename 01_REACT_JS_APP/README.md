@@ -2098,6 +2098,8 @@ UPDATE_COMPLETE                     amplify-kiowillowpayrjsapp-dev-110245 AWS::C
 
 # Date and time picker 
 - https://reactdatepicker.com/
+- https://www.youtube.com/watch?v=osAIu-1ag-Q
+- https://www.youtube.com/watch?v=tojwQEdI-QI
 
 # AWS enviroment
 - https://docs.amplify.aws/cli/teams/overview/
