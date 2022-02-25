@@ -2104,4 +2104,9 @@ UPDATE_COMPLETE                     amplify-kiowillowpayrjsapp-dev-110245 AWS::C
 # AWS enviroment
 - https://docs.amplify.aws/cli/teams/overview/
   
+# aws amplify storage unauthenticated access
+- https://medium.com/floom/public-read-access-for-aws-amplify-storage-9eb5621abff
+- https://docs.amplify.aws/lib/storage/configureaccess/q/platform/js/
+- https://docs.amplify.aws/lib/storage/configureaccess/q/platform/js/#customization
+- https://stackoverflow.com/questions/60936666/getting-missing-required-field-principal-when-adding-policy-to-s3-bucket
 
