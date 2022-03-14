@@ -2110,3 +2110,7 @@
   - https://docs.amplify.aws/lib/storage/configureaccess/q/platform/js/#customization
   - https://stackoverflow.com/questions/60936666/getting-missing-required-field-principal-when-adding-policy-to-s3-bucket
 
+
+# Map Markers
+- https://developers.google.com/maps/documentation/javascript/custom-markers
+- http://kml4earth.appspot.com/icons.html
