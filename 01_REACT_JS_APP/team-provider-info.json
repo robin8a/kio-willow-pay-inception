@@ -1,0 +1,76 @@
+{
+    "kwipayenv": {
+      "awscloudformation": {
+        "AuthRoleName": "amplify-kiowillowpayrjsapp-kwipayenv-103446-authRole",
+        "UnauthRoleArn": "arn:aws:iam::228655235420:role/amplify-kiowillowpayrjsapp-kwipayenv-103446-unauthRole",
+        "AuthRoleArn": "arn:aws:iam::228655235420:role/amplify-kiowillowpayrjsapp-kwipayenv-103446-authRole",
+        "Region": "us-east-1",
+        "DeploymentBucketName": "amplify-kiowillowpayrjsapp-kwipayenv-103446-deployment",
+        "UnauthRoleName": "amplify-kiowillowpayrjsapp-kwipayenv-103446-unauthRole",
+        "StackName": "amplify-kiowillowpayrjsapp-kwipayenv-103446",
+        "StackId": "arn:aws:cloudformation:us-east-1:228655235420:stack/amplify-kiowillowpayrjsapp-kwipayenv-103446/949338f0-3cbb-11ec-a2d5-0ebcbfb2456d",
+        "AmplifyAppId": "d2p7cnbefaaed7"
+      },
+      "categories": {
+        "hosting": {
+          "amplifyhosting": {
+            "appId": "d2p7cnbefaaed7",
+            "type": "cicd"
+          }
+        },
+        "auth": {
+          "kiowillowpayrjsapp80d6f39b": {}
+        }
+      }
+    },
+    "dev": {
+      "awscloudformation": {
+        "AuthRoleName": "amplify-kiowillowpayrjsapp-dev-110245-authRole",
+        "UnauthRoleArn": "arn:aws:iam::228655235420:role/amplify-kiowillowpayrjsapp-dev-110245-unauthRole",
+        "AuthRoleArn": "arn:aws:iam::228655235420:role/amplify-kiowillowpayrjsapp-dev-110245-authRole",
+        "Region": "us-east-1",
+        "DeploymentBucketName": "amplify-kiowillowpayrjsapp-dev-110245-deployment",
+        "UnauthRoleName": "amplify-kiowillowpayrjsapp-dev-110245-unauthRole",
+        "StackName": "amplify-kiowillowpayrjsapp-dev-110245",
+        "StackId": "arn:aws:cloudformation:us-east-1:228655235420:stack/amplify-kiowillowpayrjsapp-dev-110245/8ddb1060-8daf-11ec-9b66-0ed84e0bd94f",
+        "AmplifyAppId": "d2p7cnbefaaed7"
+      },
+      "categories": {
+        "hosting": {
+          "amplifyhosting": {
+            "appId": "d2p7cnbefaaed7",
+            "type": "cicd"
+          }
+        },
+        "auth": {
+          "kiowillowpayrjsapp80d6f39b": {},
+          "userPoolGroups": {}
+        }
+      }
+    },
+    "prod": {
+      "awscloudformation": {
+        "AuthRoleName": "amplify-kiowillowpayrjsapp-prod-114252-authRole",
+        "UnauthRoleArn": "arn:aws:iam::228655235420:role/amplify-kiowillowpayrjsapp-prod-114252-unauthRole",
+        "AuthRoleArn": "arn:aws:iam::228655235420:role/amplify-kiowillowpayrjsapp-prod-114252-authRole",
+        "Region": "us-east-1",
+        "DeploymentBucketName": "amplify-kiowillowpayrjsapp-prod-114252-deployment",
+        "UnauthRoleName": "amplify-kiowillowpayrjsapp-prod-114252-unauthRole",
+        "StackName": "amplify-kiowillowpayrjsapp-prod-114252",
+        "StackId": "arn:aws:cloudformation:us-east-1:228655235420:stack/amplify-kiowillowpayrjsapp-prod-114252/733e8ed0-ab91-11ec-b992-0afe494a99f7",
+        "AmplifyAppId": "d2p7cnbefaaed7"
+      },
+      "categories": {
+        "hosting": {
+          "amplifyhosting": {
+            "appId": "d2p7cnbefaaed7",
+            "type": "cicd"
+          }
+        },
+        "auth": {
+          "kiowillowpayrjsapp80d6f39b": {},
+          "userPoolGroups": {}
+        }
+      }
+    }
+  }
