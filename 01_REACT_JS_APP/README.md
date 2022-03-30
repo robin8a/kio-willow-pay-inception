@@ -2114,3 +2114,14 @@
 # Map Markers
 - https://developers.google.com/maps/documentation/javascript/custom-markers
 - http://kml4earth.appspot.com/icons.html
+
+
+# Seed on new project
+
+1. Create admon_willow_<env> on Cognito user pool
+2. Crear user con el rol admon
+
+```sh
+aws cognito-identity list-identity-pools --max-results 10
+
+```
